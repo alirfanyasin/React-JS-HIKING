@@ -1,0 +1,16 @@
+/* Contact Pages */
+#contact-section header{
+  height: 50vh;
+  background-image: url('../image/background-middle-image.png');
+}
+
+#contact-section input, #contact-section textarea {
+  border: 1px solid #3268CA;
+  font-weight: 200;
+}
+
+#contact-section input::placeholder,
+#contact-section textarea::placeholder  {
+  font-weight: 200;
+}
+
